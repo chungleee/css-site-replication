@@ -29,3 +29,19 @@ h1 {
   padding: 40px;
   width: 330px;
 }
+
+ul.footer {
+    clear: both;
+    list-style: none;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+li {
+    display: inline;
+    margin: 0 10px;
+}
+
+a {
+    text-decoration: none;
+}
